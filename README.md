@@ -1,3 +1,3 @@
 # Leetcode Solutions
 
-This is a personal repository used to keep track of my LeetCode submissions. Nothing more, nothing less.
+This is a personal repository used to keep track of my LeetCode submissions :)
