@@ -3,7 +3,7 @@ class Solution
     public List<String> fizzBuzz(int n) 
     {
         // Creates an ArrayList to store the answer.
-        List<String> answer = new ArrayList<>();
+        List<String> answer = new LinkedList<>();
         
         for(int i = 1; i < n + 1; i++)
         {
