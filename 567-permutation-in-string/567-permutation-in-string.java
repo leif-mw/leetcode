@@ -11,8 +11,6 @@ class Solution
         for(int i = 0; i < s1.length(); i++)
             s1Sum += s1.charAt(i);
         
-        // Iterates through `s2` with a sliding window with the same size as s1.length (if a sum of ASCII values equal to that of s1's is found, it is then checked whether the substring in the sliding window is a permutation of s1)
-        
         // Initializes the sliding window on s2 and calculates its first sum:
         int currSum = 0;
         for(int i = 0; i < s1.length(); i++)
